@@ -69,6 +69,43 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        combo_layer_0 {
+            bindings = <&to 0>;
+            key-positions = <57 46>;
+            timeout-ms = <500>;
+            require-prior-idle-ms = <250>;
+        };
+
+        combo_layer_1 {
+            bindings = <&to 1>;
+            key-positions = <57 47>;
+            timeout-ms = <500>;
+            require-prior-idle-ms = <250>;
+        };
+
+        combo_layer_2 {
+            bindings = <&to 2>;
+            key-positions = <57 48>;
+            timeout-ms = <500>;
+            require-prior-idle-ms = <250>;
+        };
+
+        combo_layer_3 {
+            bindings = <&to 3>;
+            key-positions = <57 49>;
+            timeout-ms = <500>;
+            require-prior-idle-ms = <250>;
+        };
+
+        combo_sleep {
+            bindings = <&soft_off>;
+            key-positions = <0 12>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
