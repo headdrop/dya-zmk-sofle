@@ -1,6 +1,11 @@
 name: Build ZMK firmware
 on:
   workflow_dispatch:
+  push:
+    paths:
+        - "config/**"
+    paths-ignore:
+      - "keymap-drawer/**"
 
 jobs:
   build:
