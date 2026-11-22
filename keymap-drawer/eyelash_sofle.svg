@@ -630,44 +630,6 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:backspace-reverse-outline"/>
 </g>
-<g class="combo combopos-0">
-<path d="M503,248 l-96,39" class="combo"/>
-<path d="M503,248 l96,-39" class="combo"/>
-<rect rx="6" ry="6" x="489" y="236" width="28" height="26" class="combo"/>
-<a href="#MAIN">
-<text x="503" y="248" class="combo tap layer-activator">MAIN</text>
-</a><text x="503" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-1">
-<path d="M531,248 l-124,40" class="combo"/>
-<path d="M531,248 l124,-40" class="combo"/>
-<rect rx="6" ry="6" x="517" y="236" width="28" height="26" class="combo"/>
-<a href="#F0NUM">
-<text x="531" y="248" class="combo tap layer-activator">F0+NUM</text>
-</a><text x="531" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-2">
-<path d="M559,245 l-152,44" class="combo"/>
-<path d="M559,245 l152,-44" class="combo"/>
-<rect rx="6" ry="6" x="545" y="232" width="28" height="26" class="combo"/>
-<a href="#FUNC2">
-<text x="559" y="245" class="combo tap layer-activator">FUNC2</text>
-</a><text x="559" y="256" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M587,248 l-179,41" class="combo"/>
-<path d="M587,248 l179,-41" class="combo"/>
-<rect rx="6" ry="6" x="573" y="236" width="28" height="26" class="combo"/>
-<a href="#SETTING">
-<text x="587" y="248" class="combo tap layer-activator"><tspan style="font-size: 86%">SETTING</tspan></text>
-</a><text x="587" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-4">
-<path d="M462,56 l-415,0" class="combo"/>
-<path d="M462,56 l415,0" class="combo"/>
-<rect rx="6" ry="6" x="448" y="43" width="28" height="26" class="combo"/>
-<text x="462" y="56" class="combo tap"><tspan style="font-size: 67%">&amp;soft_off</tspan></text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-F0+NUM">
@@ -1028,44 +990,6 @@ rect.held, rect.combo.held {
 <tspan x="0" dy="-0.6em">KP</tspan><tspan x="0" dy="1.2em">DOT</tspan>
 </text>
 </g>
-<g class="combo combopos-0">
-<path d="M503,248 l-96,39" class="combo"/>
-<path d="M503,248 l96,-39" class="combo"/>
-<rect rx="6" ry="6" x="489" y="236" width="28" height="26" class="combo"/>
-<a href="#MAIN">
-<text x="503" y="248" class="combo tap layer-activator">MAIN</text>
-</a><text x="503" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-1">
-<path d="M531,248 l-124,40" class="combo"/>
-<path d="M531,248 l124,-40" class="combo"/>
-<rect rx="6" ry="6" x="517" y="236" width="28" height="26" class="combo"/>
-<a href="#F0NUM">
-<text x="531" y="248" class="combo tap layer-activator">F0+NUM</text>
-</a><text x="531" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-2">
-<path d="M559,245 l-152,44" class="combo"/>
-<path d="M559,245 l152,-44" class="combo"/>
-<rect rx="6" ry="6" x="545" y="232" width="28" height="26" class="combo"/>
-<a href="#FUNC2">
-<text x="559" y="245" class="combo tap layer-activator">FUNC2</text>
-</a><text x="559" y="256" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M587,248 l-179,41" class="combo"/>
-<path d="M587,248 l179,-41" class="combo"/>
-<rect rx="6" ry="6" x="573" y="236" width="28" height="26" class="combo"/>
-<a href="#SETTING">
-<text x="587" y="248" class="combo tap layer-activator"><tspan style="font-size: 86%">SETTING</tspan></text>
-</a><text x="587" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-4">
-<path d="M462,56 l-415,0" class="combo"/>
-<path d="M462,56 l415,0" class="combo"/>
-<rect rx="6" ry="6" x="448" y="43" width="28" height="26" class="combo"/>
-<text x="462" y="56" class="combo tap"><tspan style="font-size: 67%">&amp;soft_off</tspan></text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-FUNC2">
@@ -1396,44 +1320,6 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
-</g>
-<g class="combo combopos-0">
-<path d="M503,248 l-96,39" class="combo"/>
-<path d="M503,248 l96,-39" class="combo"/>
-<rect rx="6" ry="6" x="489" y="236" width="28" height="26" class="combo"/>
-<a href="#MAIN">
-<text x="503" y="248" class="combo tap layer-activator">MAIN</text>
-</a><text x="503" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-1">
-<path d="M531,248 l-124,40" class="combo"/>
-<path d="M531,248 l124,-40" class="combo"/>
-<rect rx="6" ry="6" x="517" y="236" width="28" height="26" class="combo"/>
-<a href="#F0NUM">
-<text x="531" y="248" class="combo tap layer-activator">F0+NUM</text>
-</a><text x="531" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-2">
-<path d="M559,245 l-152,44" class="combo"/>
-<path d="M559,245 l152,-44" class="combo"/>
-<rect rx="6" ry="6" x="545" y="232" width="28" height="26" class="combo"/>
-<a href="#FUNC2">
-<text x="559" y="245" class="combo tap layer-activator">FUNC2</text>
-</a><text x="559" y="256" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M587,248 l-179,41" class="combo"/>
-<path d="M587,248 l179,-41" class="combo"/>
-<rect rx="6" ry="6" x="573" y="236" width="28" height="26" class="combo"/>
-<a href="#SETTING">
-<text x="587" y="248" class="combo tap layer-activator"><tspan style="font-size: 86%">SETTING</tspan></text>
-</a><text x="587" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-4">
-<path d="M462,56 l-415,0" class="combo"/>
-<path d="M462,56 l415,0" class="combo"/>
-<rect rx="6" ry="6" x="448" y="43" width="28" height="26" class="combo"/>
-<text x="462" y="56" class="combo tap"><tspan style="font-size: 67%">&amp;soft_off</tspan></text>
 </g>
 </g>
 </g>
@@ -1795,44 +1681,6 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key none side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key none"/>
 <use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="-9" y="-13" height="18" width="18.0" class="key none tap glyph mdi:minus-circle-outline"/>
-</g>
-<g class="combo combopos-0">
-<path d="M503,248 l-96,39" class="combo"/>
-<path d="M503,248 l96,-39" class="combo"/>
-<rect rx="6" ry="6" x="489" y="236" width="28" height="26" class="combo"/>
-<a href="#MAIN">
-<text x="503" y="248" class="combo tap layer-activator">MAIN</text>
-</a><text x="503" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-1">
-<path d="M531,248 l-124,40" class="combo"/>
-<path d="M531,248 l124,-40" class="combo"/>
-<rect rx="6" ry="6" x="517" y="236" width="28" height="26" class="combo"/>
-<a href="#F0NUM">
-<text x="531" y="248" class="combo tap layer-activator">F0+NUM</text>
-</a><text x="531" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-2">
-<path d="M559,245 l-152,44" class="combo"/>
-<path d="M559,245 l152,-44" class="combo"/>
-<rect rx="6" ry="6" x="545" y="232" width="28" height="26" class="combo"/>
-<a href="#FUNC2">
-<text x="559" y="245" class="combo tap layer-activator">FUNC2</text>
-</a><text x="559" y="256" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-3">
-<path d="M587,248 l-179,41" class="combo"/>
-<path d="M587,248 l179,-41" class="combo"/>
-<rect rx="6" ry="6" x="573" y="236" width="28" height="26" class="combo"/>
-<a href="#SETTING">
-<text x="587" y="248" class="combo tap layer-activator"><tspan style="font-size: 86%">SETTING</tspan></text>
-</a><text x="587" y="260" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-4">
-<path d="M462,56 l-415,0" class="combo"/>
-<path d="M462,56 l415,0" class="combo"/>
-<rect rx="6" ry="6" x="448" y="43" width="28" height="26" class="combo"/>
-<text x="462" y="56" class="combo tap"><tspan style="font-size: 67%">&amp;soft_off</tspan></text>
 </g>
 </g>
 </g>
